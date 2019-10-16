@@ -1,4 +1,19 @@
-body{
-	background-color:black;
-	color:white;
+
+body {
+        
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+
+
+    filter: alpha(opacity=50);
+    background-color: #cccccc;
 }
+    
+
+h1 {
+    color: blueviolet;
+    margin-left: 20px;
+}
+
