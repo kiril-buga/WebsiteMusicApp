@@ -14,11 +14,15 @@
 
 <!-- Description of the App -->
 <h2>Our vision...</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>We want to create a platform, where amateur artists can share their music and listen to the creations of other artists.
+After a quick registration with a username and an e-mail adress, they can start browsing in a library of different genres of music.
+Also they are able to upload their own creations and choose in which genre they see themselves. While browsing,
+they are able to like and only like the music of others. There will be no comment section, as a protection for the artists,
+so they can't be negatively influenced. 
+Whenever a song is liked by another user, the creator of this song is being notified by e-mail,
+that way the creator can check out who liked his song and has the oppurtunity to listen to this person's creations.
+If the style of music fits his own and he is interested in communicating with this user, he can also like one of the songs.
+As soon as that happens, a chat-window will open for both of them, where they can share thoughts about each other's music.
+</p>
 </body>
 </html>
