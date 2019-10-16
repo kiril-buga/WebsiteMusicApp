@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Page 2</title>
+	<title>Business Idea</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<h1>Hello! I'm page 2</h1>
+<h1>Business Idea</h1>
 
 <!-- Navigation -->
-<a href="index.html">Page 1</a>
-<label>Page 2</label>
-<a href="page3.html">Page 3</a>
+<a href="index.html">Home</a>
+<label>Business Idea</label>
+<a href="page3.html">The Product</a>
 
 <!-- Description of the App -->
-<h2>What is the Artist Finder?</h2>
+<h2>Our vision...</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
