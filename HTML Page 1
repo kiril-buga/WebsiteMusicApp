@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Cyka Blyat</title>
+	<title>Get inspired not only hired</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
 <!-- Heading -->
-<h1>Welcome to page 1</h1>
+<h1>Home</h1>
 
 <!-- Navigation -->
-<label>Page 1</label>
-<a href="page2.html">Page 2</a>
-<a href="page3.html">Page 3</a>
+<label>Home</label>
+<a href="page2.html">Business Idea</a>
+<a href="page3.html">The Product</a>
 
 <!-- Login -->
 <div>
