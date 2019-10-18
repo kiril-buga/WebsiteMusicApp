@@ -2,19 +2,26 @@
 <html>
 <head>
 	<title>Business Idea</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style2.css">
 </head>
 <body>
-<h1>Business Idea</h1>
+
+
 
 <!-- Navigation -->
-<a href="index.html">Home</a>
-<label>Business Idea</label>
-<a href="page3.html">The Product</a>
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a class="active" href="page2.html">Business Idea</a></li>
+	<li><a href="page3.html">The Product</a></li>
+</ul>
+
+<!-- Heading -->
+<h1>Business Idea</h1>
 
 <!-- Description of the App -->
 <h2>Our vision...</h2>
-<p>We want to create a platform, where amateur artists can share their music and listen to the creations of other artists.
+<p>
+We want to create a platform, where amateur artists can share their music and listen to the creations of other artists.
 After a quick registration with a username and an e-mail address, they can start browsing in a library of different genres of music.
 Also they are able to upload their own creations and choose in which genre they see themselves. While browsing,
 they are able to like and only like the music of others. There will be no comment section, as a protection for the artists,
