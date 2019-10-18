@@ -1,19 +1,47 @@
-
 body {
-        
+    
     background-image: url("background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-
-
-    filter: alpha(opacity=50);
-    background-color: #cccccc;
-}
+    /*opacity: 0.4;*/
     
+}
+/*Navigation*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 
+    /*TextAttributes*/
+    display: block;
+    color: white;
+    font-size: 115%;
+    font-weight:bold;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    color: white;
+    background-color: #111;
+}
+.active {
+    background-color: grey;
+}
+
+/*Header*/
 h1 {
-    color: blueviolet;
-    margin-left: 20px;
+    color: blue;
+    margin-left: 15px;
 }
 
