@@ -2,15 +2,20 @@
 <html>
 <head>
 	<title>Product</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style3.css">
 </head>
 <body>
-<h1>The Product</h1>
+
 
 <!-- Navigation -->
-<a href="index.html">Home</a>
-<a href="page2.html">Business Idea</a>
-<label>The Product</label>
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="page2.html">Business Idea</a></li>
+	<li><a class="active" href="page3.html">The Product</a></li>
+</ul>
+
+<!--Heading-->
+<h1>The Product</h1>
 
 <h2>The product...</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
