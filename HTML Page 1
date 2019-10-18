@@ -6,13 +6,17 @@
 </head>
 <body>
 
-<!-- Heading -->
-<h1>Home</h1>
+
 
 <!-- Navigation -->
-<label>Home</label>
-<a href="page2.html">Business Idea</a>
-<a href="page3.html">The Product</a>
+<ul>
+	<li><a class="active" href="index.html">Home</a></li>
+	<li><a href="page2.html">Business Idea</a></li>
+	<li><a href="page3.html">The Product</a></li>
+</ul>
+
+<!-- Heading -->
+<h1>Home</h1>
 
 <!-- Login -->
 <div>
@@ -20,6 +24,8 @@
 <input type="text" name="username" placeholder="Enter username">
 <input type="text" name="password" placeholder="Enter password">
 <br>
+
+<form>
 <a href="">Registration</a>
 
 </form>
