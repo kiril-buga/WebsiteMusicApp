@@ -1,6 +1,6 @@
 body {
-    
-    background-image: url("background.jpg");
+    /*Background*/
+    background-image: url("Images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -9,6 +9,7 @@ body {
 }
 /*Navigation*/
 ul {
+    /*Settings for the navigation Block*/
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -21,7 +22,7 @@ ul {
     font-size: 115%;
     font-weight:bold;
 }
-li {
+li {/*position the navigation to the left*/
     float: left;
 }
 li a {
@@ -36,12 +37,17 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 .active {
+    /*Active Page will be grey*/
     background-color: grey;
 }
 
 /*Header*/
 h1 {
-    color: blue;
+    color: orange;
     margin-left: 15px;
+}
+
+p{
+    color: #111
 }
 
